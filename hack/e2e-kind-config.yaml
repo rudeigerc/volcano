@@ -8,5 +8,3 @@ nodes:
   # the four workers
   - role: worker
   - role: worker
-  - role: worker
-  - role: worker
